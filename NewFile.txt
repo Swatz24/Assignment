@@ -1,5 +1,5 @@
-git add file
-pull is requesting  a file
+git log ---view the commit history
 
-Comment 3
-comment 4
+git status -- shows all the changes since previous commit
+git init ----wil start tracking all changes in the current folder
+git commit -m "message" -- Creates a commit with a message.
