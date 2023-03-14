@@ -1,2 +1,2 @@
 git add file
-# Pick Individual file
+pull is requesting  a file
